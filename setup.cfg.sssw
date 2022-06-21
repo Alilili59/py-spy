@@ -22,3 +22,4 @@ replace = name = "py-spy"
 [flake8]
 max-line-length = 100
 exclude = build,.eggs,.tox
+py-casus/kurulum.cfg
